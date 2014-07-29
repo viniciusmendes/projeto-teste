@@ -5,6 +5,7 @@ danylo.macelai =
 dayanne.guimaraes =
 jessica.silva =
 johnny.santana =
+katiana.sousa =
 luiz.filho = Luiz Gonzaga <lfilho@gmail.com>
 murillo.ivamoto =
 rafael.fontoura =
