@@ -1,3 +1,4 @@
+// Preencher com o email cadastrado no GitHub e nome desejado para exibição
 alberto.matos =
 amanda.barbosa =
 danylo.macelai =
