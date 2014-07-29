@@ -1,1 +1,13 @@
-luiz.filho = Luiz Gonzaga Filho <lfilho@gmail.com>
+alberto.matos =
+amanda.barbosa =
+danylo.macelai =
+dayanne.guimaraes =
+jessica.silva =
+johnny.santana =
+luiz.filho = Luiz Gonzaga <lfilho@gmail.com>
+murillo.ivamoto =
+rafael.fontoura =
+renata.ferreira =
+tobias.pires =
+vinicius.carvalho =
+vinicius.mendes =
