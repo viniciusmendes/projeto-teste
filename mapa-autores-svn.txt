@@ -1,0 +1,15 @@
+// Preencher com o email cadastrado no GitHub e nome desejado para exibição
+alberto.matos = Alberto Matos <albertomatos80@gmail.com>
+amanda.barbosa =
+danylo.macelai = Danylo Macelai <danylo.macelai@gmail.com>
+dayanne.guimaraes =
+jessica.silva =
+johnny.santana =
+katiana.sousa =
+luiz.filho = Luiz Gonzaga <lfilho@gmail.com>
+murillo.ivamoto =
+rafael.fontoura =
+renata.ferreira = Renata Ferreira <renata.scmr@gmail.com>
+tobias.pires =
+vinicius.carvalho =
+vinicius.mendes =
