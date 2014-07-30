@@ -8,3 +8,5 @@
 ...\_ ............ _.
 
 GitHub ID: ivamoto-murillo
+
+Agora é o teste referente ao item A da tarefa 2.
