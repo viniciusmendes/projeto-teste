@@ -1,7 +1,7 @@
 // Preencher com o email cadastrado no GitHub e nome desejado para exibição
 alberto.matos = Alberto Matos <albertomatos80@gmail.com>
 amanda.barbosa =
-danylo.macelai =
+danylo.macelai = Danylo Macelai <danylo.macelai@gmail.com>
 dayanne.guimaraes =
 jessica.silva =
 johnny.santana =
