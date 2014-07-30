@@ -1,5 +1,5 @@
 // Preencher com o email cadastrado no GitHub e nome desejado para exibição
-alberto.matos =
+alberto.matos = Alberto Matos <albertomatos80@gmail.com>
 amanda.barbosa =
 danylo.macelai =
 dayanne.guimaraes =
