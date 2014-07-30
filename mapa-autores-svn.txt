@@ -12,4 +12,4 @@ rafael.fontoura =
 renata.ferreira = Renata Ferreira <renata.scmr@gmail.com>
 tobias.pires =
 vinicius.carvalho =
-vinicius.mendes =
+vinicius.mendes = Vinícius Mendes <viniciusmendes01@gmail.com>
